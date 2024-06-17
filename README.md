@@ -8,3 +8,4 @@ git clone https://github.com/Goschad/42_Calculator.git
 Current level : [0 => 29]
 XP : [Predicted xp]
 ```
+![Screen](assets/Screen.png)
