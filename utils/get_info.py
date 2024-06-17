@@ -26,7 +26,3 @@ def set_xp():
     if xp < 0:
         raise
     return xp
-
-def set_coalitions():
-    bol = bool(input("Coalitions bonus : "))
-    return bol
