@@ -14,3 +14,5 @@ if __name__ == '__main__':
         print('')
     except:
         print(get_info._INPUT_ERROR)
+
+# add blackhole https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2
