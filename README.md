@@ -1,13 +1,19 @@
-# 42_Calculator
+## 42_Calculator
+
+### Description :
+
+#### allows you to calculate your level progression based on an expected amount of XP
+
+### install && run :
 
 ```bash
-git clone https://github.com/Goschad/42_Calculator.git
+git clone https://github.com/Goschad/42_Calculator.git && cd 42_Calculator && python3 main.py
 ```
 
-![Screen](assets/Screen.png)
+### how to use it :
+<img src="assets/Screen.png" height="120">
 
-```bash
-Current level : [0 => 29]
-XP : [Predicted xp]
+```txt
+Current level : <your_level>
+XP : <predicted_xp>
 ```
-
